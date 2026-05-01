@@ -26,7 +26,7 @@ The model is designed specifically for **low-resource rural settings** – light
 
 ## 🎯 Why This Matters
 
-In the **Western North Region of Ghana**:
+In the **rural area in Ghana**:
 - Long distances to healthcare facilities
 - Limited access to specialists
 - Late detection of pregnancy complications

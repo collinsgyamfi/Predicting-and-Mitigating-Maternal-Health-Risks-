@@ -13,7 +13,7 @@ Predicting and Mitigating Maternal Health Risks Using Multimodal Machine Learnin
 
 ## 📌 Overview
 
-This project aims to **reduce maternal mortality** in rural Ghana by providing an AI-powered early warning system for pregnant women. The system combines **wearable device data** (heart rate, blood pressure, oxygen levels, sleep, activity) with **clinical data** (age, BMI, medical history) to predict four major pregnancy risks:
+This project aims to **reduce maternal mortality**  by providing an AI-powered early warning system for pregnant women. The system combines **wearable device data** (heart rate, blood pressure, oxygen levels, sleep, activity) with **clinical data** (age, BMI, medical history) to predict four major pregnancy risks:
 
 - ⚠️ **Pre-eclampsia** (dangerous high blood pressure)
 - 🩸 **Gestational Diabetes** (diabetes during pregnancy)

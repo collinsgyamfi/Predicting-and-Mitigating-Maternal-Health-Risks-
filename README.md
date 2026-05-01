@@ -2,7 +2,7 @@
 Predicting and Mitigating Maternal Health Risks Using Multimodal Machine Learning with Wearable Device Data and Explainable AI
 # 🤰 Maternal Health Risk Predictor
 
-## Early Detection of Pregnancy Complications Using AI | Rural Ghana (Western North Region)
+## Early Detection of Pregnancy Complications 
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
